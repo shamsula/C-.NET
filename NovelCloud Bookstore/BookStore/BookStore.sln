@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreGUI", "BookStoreGUI\BookStoreGUI.csproj", "{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreLIB", "BookStoreLIB\BookStoreLIB.csproj", "{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Debug|x86.Build.0 = Debug|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Release|x86.ActiveCfg = Release|Any CPU
+		{22B1C5C1-61BF-4B19-B77F-C8A951D9E4B6}.Release|x86.Build.0 = Release|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFBE01C4-BD4E-4B8A-A153-A2567A02006A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D2A2C89-D821-485C-A6EF-EB40A7898A33}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://zulu.cspc1.uwindsor.ca:8080/tfs/cs422f
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BookStoreGUI\\BookStoreGUI.csproj
+		SccProjectName1 = BookStoreGUI
+		SccLocalPath1 = BookStoreGUI
+		SccProjectUniqueName2 = BookStoreLIB\\BookStoreLIB.csproj
+		SccProjectName2 = BookStoreLIB
+		SccLocalPath2 = BookStoreLIB
+	EndGlobalSection
+EndGlobal
